@@ -486,6 +486,3 @@ This project demonstrates:
 - Shows end-to-end project execution
 
 ---
-
-HR Attrition Analytics Dashboard  
-GitHub: github.com/[yourname]/HR-Attrition-Analytics-Dashboard
