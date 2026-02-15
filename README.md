@@ -460,7 +460,7 @@ This project demonstrates:
 ---
 
 **Other Projects:**
-- [Superstore Sales Analytics Dashboard](link-to-other-repo)
+- [Superstore Sales Analytics Dashboard]([link-to-other-repo](https://github.com/datawithsumit/Superstore_Analytics_))
 
 
 ---
